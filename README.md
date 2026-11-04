@@ -34,10 +34,10 @@ I enjoy making things, experimenting with ideas and finding ways to turn everyda
 <td width="40%" valign="top">
 
 ```yaml
-name:     Nurul 'Aisyah ✿
-based:    Kuala Lumpur, MY
-looking:  IT Support / SysAdmin
-speaks:   English, Malay
+Name:     Nurul 'Aisyah ✿
+Based:    Kuala Lumpur, MY
+Looking:  IT Support / SysAdmin
+Speaks:   English, Malay
 ```
 
 </td>
