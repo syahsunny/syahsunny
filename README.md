@@ -35,7 +35,6 @@ I enjoy making things, experimenting with ideas and finding ways to turn everyda
 
 ```yaml
 name:     Nurul 'Aisyah ✿
-degree:   B.IT (Hons), IIUM
 based:    Kuala Lumpur, MY
 looking:  IT Support / SysAdmin
 speaks:   English, Malay
@@ -81,31 +80,6 @@ speaks:   English, Malay
 </td>
 </tr>
 </table>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## 🎓 `SCHOOL` *days* & 🏆 `PROUD` *moments*
-
-| | |
-|:---:|:---|
-| 🎓 | **Bachelor of IT (Hons)** — International Islamic University Malaysia · *2022 – 2026* · CGPA **3.41** |
-| 📘 | **Diploma in IT** — Politeknik Ungku Omar · *2019 – 2022* · CGPA **3.81** |
-| 🏅 | **Head of Department Award** — Semester 2, 2019/2020 (Diploma in IT) |
-| 🥈 | **Silver Award** — 6th University in Action Symposium |
-| 🤝 | Committee member for TNB, SPRM & SMIDEX programmes · Innovatex Tech Expo participant *(2024 & 2025)* |
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## 📸 SNAPSHOTS of my `GITHUB`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syahsunny&show_icons=true&hide_border=false&border_radius=14&border_color=222222&bg_color=FFF0F6&title_color=E85A9B&icon_color=91A982&text_color=4A3B44&custom_title=%E2%98%BA%20Aisyah's%20Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahsunny&layout=compact&hide_border=false&border_radius=14&border_color=222222&bg_color=FFF0F6&title_color=E85A9B&text_color=4A3B44&custom_title=%E2%99%A1%20Fave%20Languages" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syahsunny&bg_color=FFF0F6&color=E85A9B&line=91A982&point=F5D76E&area=true&area_color=F3A7C8&hide_border=true&radius=14&custom_title=watering%20my%20commits%20%F0%9F%8C%B7" width="100%"/>
 
 </div>
 
