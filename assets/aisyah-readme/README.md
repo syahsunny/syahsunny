@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="./assets/header.svg" width="100%" alt="Hey, I'm Aisyah! — a pink scrapbook collage header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2600&pause=900&color=E85A9B&center=true&vCenter=true&width=640&lines=%E2%9C%BF+Information+Technology+graduate+%40+IIUM+%E2%9C%BF;%F0%9F%92%BB+aspiring+IT+Support+%2F+System+Admin;%F0%9F%93%8A+data+%2B+design+%2B+digitalisation;%F0%9F%93%8D+based+in+KL+%E2%80%94+open+to+relocate!" alt="Typing animation"/>
