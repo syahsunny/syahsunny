@@ -66,16 +66,20 @@ Speaks:   English, Malay
 
 **🌷 data & databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=light" alt="mysql,firebase"/> <img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" alt="XAMPP" title="XAMPP"/><br/>
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48" alt="Excel" title="Excel"/> <img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" title="Power BI"/> <img src="https://img.icons8.com/color/96/tableau-software.png" height="48" alt="Tableau" title="Tableau"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=light" alt="mysql,firebase"/> 
+<img src="https://cdn.simpleicons.org/xampp/FB7A24" height="48" alt="XAMPP" title="XAMPP"/><br/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48" alt="Excel" title="Excel"/> 
+<img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" title="Power BI"/> 
+<img src="https://img.icons8.com/color/96/tableau-software.png" height="48" alt="Tableau" title="Tableau"/>
 
 </td>
 <td align="center" width="33%">
 
 **🎨 design & productivity**
 
-<img src="https://skillicons.dev/icons?i=figma,ai&theme=light" alt="figma,ai"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" title="Canva"/><br/>
-<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48" alt="Draw.io" title="Draw.io"/> <img src="https://img.icons8.com/color/96/microsoft-office-2019.png" height="48" alt="Microsoft Office" title="Microsoft Office"/>
+<img src="https://skillicons.dev/icons?i=figma,ai&theme=light" alt="figma,ai"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" title="Canva"/><br/>
+<img src="https://share.google/SwMGeEiT5FpzylATM" height="48" alt="Microsoft Office" title="Microsoft Office"/>
 
 </td>
 </tr>
