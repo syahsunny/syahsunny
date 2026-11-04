@@ -79,7 +79,7 @@ Speaks:   English, Malay
 
 <img src="https://skillicons.dev/icons?i=figma,ai&theme=light" alt="figma,ai"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" title="Canva"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="48" alt="Adobe Illustrator" title="Adobe Illustrator"/>
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48" alt="Draw.io" title="Draw.io"/>
 <img src="https://img.icons8.com/color/96/microsoft-office-2019.png" height="48" alt="Microsoft Office" title="Microsoft Office"/>
 
 </td>
